@@ -1,0 +1,81 @@
+{"prompt": "Hey, how do I unlock my account?", "response": "Five wrong passwords lock the account for 30 minutes. You can wait or use Forgot Password to reset it immediately."}
+{"prompt": "do you have a mobile app", "response": "You can download the ShopEase app on iOS and Android and sign in with your usual account."}
+{"prompt": "do reward points expire", "response": "You earn 1 point for every $1 spent, and every 100 points are worth $5 off at checkout. Points expire after 12 months without activity."}
+{"prompt": "This is not helpful, connect me to support.", "response": "Sure, you can reach a human agent through live chat (9 am to 9 pm ET) or by emailing support@shopease.example."}
+{"prompt": "Hi, I entered the wrong shipping address, what can I do? Thanks!", "response": "The delivery address can be changed in My Orders until the order ships. After shipping it is not possible to change it."}
+{"prompt": "Which items cannot be returned? Thanks in advance.", "response": "Items marked Final Sale, gift cards and personalised products cannot be returned or exchanged."}
+{"prompt": "Do you have express shipping?", "response": "Yes, express shipping is $12.99 with delivery in 1-2 business days. Orders placed before 2 pm ET ship the same day."}
+{"prompt": "What is a pre-order?", "response": "You are charged only when a pre-order ships on its release date, and you can cancel it at any time before then."}
+{"prompt": "what does sold out mean", "response": "Use the Notify Me button on the product page for a restock email. Items are typically back in 2-3 weeks."}
+{"prompt": "Hello, can I hide the price on a gift order?", "response": "Yes, gift wrap costs $3.99 per item. Select it at checkout, where you can also add a message card and the invoice will not show prices."}
+{"prompt": "How do I unlock my account?", "response": "Five wrong passwords lock the account for 30 minutes. You can wait or use Forgot Password to reset it immediately."}
+{"prompt": "Will my items ship together?", "response": "Orders can ship in separate packages from different warehouses, and each package has its own tracking number. You are not charged extra shipping for it."}
+{"prompt": "Hey, are your products fake or original?", "response": "Yes, every product is sourced directly from authorised brands and suppliers, so all items are 100% authentic."}
+{"prompt": "Hey, why can't I review this item?", "response": "After delivery, open My Orders and click Write a Review. Only verified buyers can review, and you can edit your review at any time."}
+{"prompt": "Do reward points expire?", "response": "You earn 1 point for every $1 spent, and every 100 points are worth $5 off at checkout. Points expire after 12 months without activity."}
+{"prompt": "Hello, what does sold out mean? Thanks!", "response": "Use the Notify Me button on the product page for a restock email. Items are typically back in 2-3 weeks."}
+{"prompt": "Excuse me, can I change the items in my order? Thank you.", "response": "Orders cannot be edited after checkout. Please cancel the order in My Orders before it ships and place a new one."}
+{"prompt": "Where is the size chart?", "response": "Use the Size Guide link beside the size selector on each product page. If you are between two sizes, size up."}
+{"prompt": "how do i report an incorrect item", "response": "Please send us your order number and a photo. We will ship the correct item at no cost and include a prepaid label for the wrong one."}
+{"prompt": "Where can I talk to a person?", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "How do I reset my password?", "response": "Use the Forgot Password link on the login page. A reset link is emailed to you, and it may land in your spam folder."}
+{"prompt": "Hello, where can I talk to a person?", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "What does sold out mean?", "response": "Use the Notify Me button on the product page for a restock email. Items are typically back in 2-3 weeks."}
+{"prompt": "This is not helpful, connect me to support. Please help.", "response": "Sure, you can reach a human agent through live chat (9 am to 9 pm ET) or by emailing support@shopease.example."}
+{"prompt": "Hi, I need my order quickly, what are my options? Any info would be appreciated.", "response": "Express shipping costs $12.99 and delivers in 1-2 business days. Order before 2 pm ET to ship the same day."}
+{"prompt": "How can I deactivate my profile?", "response": "To delete your account, send a request to support@shopease.example from your registered email. It is processed within 5 business days."}
+{"prompt": "I entered the wrong shipping address, what can I do?", "response": "The delivery address can be changed in My Orders until the order ships. After shipping it is not possible to change it."}
+{"prompt": "Can I pre-order an item?", "response": "You are charged only when a pre-order ships on its release date, and you can cancel it at any time before then."}
+{"prompt": "Are your products fake or original?", "response": "Yes, every product is sourced directly from authorised brands and suppliers, so all items are 100% authentic."}
+{"prompt": "Do you have express shipping? Thank you.", "response": "Yes, express shipping is $12.99 with delivery in 1-2 business days. Orders placed before 2 pm ET ship the same day."}
+{"prompt": "Where do I enter my gift card code?", "response": "ShopEase gift cards never expire. Enter the code at checkout and check your balance under Account > Gift Cards."}
+{"prompt": "Hi, what is a pre-order?", "response": "You are charged only when a pre-order ships on its release date, and you can cancel it at any time before then."}
+{"prompt": "Hi, which items cannot be returned?", "response": "Items marked Final Sale, gift cards and personalised products cannot be returned or exchanged."}
+{"prompt": "Quick question: how do I reset my password? Any info would be appreciated.", "response": "Use the Forgot Password link on the login page. A reset link is emailed to you, and it may land in your spam folder."}
+{"prompt": "where is the size chart", "response": "Use the Size Guide link beside the size selector on each product page. If you are between two sizes, size up."}
+{"prompt": "Hi, how can I contact customer support? Thanks!", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "can i speak to a human", "response": "Sure, you can reach a human agent through live chat (9 am to 9 pm ET) or by emailing support@shopease.example."}
+{"prompt": "Hi there! who won the football match yesterday? Thanks!", "response": "I am the ShopEase support assistant, so I can only answer questions about orders, shipping, returns, payments and accounts."}
+{"prompt": "Can I change the items in my order?", "response": "Orders cannot be edited after checkout. Please cancel the order in My Orders before it ships and place a new one."}
+{"prompt": "Hello, I forgot something, can I add it to my existing order? Please help.", "response": "Once placed, an order cannot be modified. Cancel it from My Orders before it ships and reorder with the right items."}
+{"prompt": "Can I get a tracking number?", "response": "Open My Orders and click Track next to your order. A tracking link is also sent to you by email once the order ships."}
+{"prompt": "is there a time limit for returns", "response": "Returns are accepted within 30 days of delivery. After that we cannot take the item back, sorry!"}
+{"prompt": "Where can I talk to a person? Any info would be appreciated.", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "how can i deactivate my profile", "response": "To delete your account, send a request to support@shopease.example from your registered email. It is processed within 5 business days."}
+{"prompt": "Can I hide the price on a gift order? Thanks in advance.", "response": "Yes, gift wrap costs $3.99 per item. Select it at checkout, where you can also add a message card and the invoice will not show prices."}
+{"prompt": "Can I hide the price on a gift order?", "response": "Yes, gift wrap costs $3.99 per item. Select it at checkout, where you can also add a message card and the invoice will not show prices."}
+{"prompt": "Good morning, where do I enter my gift card code? Thanks in advance.", "response": "ShopEase gift cards never expire. Enter the code at checkout and check your balance under Account > Gift Cards."}
+{"prompt": "I forgot something, can I add it to my existing order?", "response": "Once placed, an order cannot be modified. Cancel it from My Orders before it ships and reorder with the right items."}
+{"prompt": "How can I contact customer support?", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "I need my order quickly, what are my options? Please help.", "response": "Express shipping costs $12.99 and delivers in 1-2 business days. Order before 2 pm ET to ship the same day."}
+{"prompt": "I need my order quickly, what are my options?", "response": "Express shipping costs $12.99 and delivers in 1-2 business days. Order before 2 pm ET to ship the same day."}
+{"prompt": "How do I get 10% off? Thanks in advance.", "response": "New customers get 10% off their first order with the code WELCOME10 after subscribing to our newsletter."}
+{"prompt": "Hi, this is not helpful, connect me to support.", "response": "Sure, you can reach a human agent through live chat (9 am to 9 pm ET) or by emailing support@shopease.example."}
+{"prompt": "Is there a time limit for returns?", "response": "Returns are accepted within 30 days of delivery. After that we cannot take the item back, sorry!"}
+{"prompt": "Do you have a mobile app?", "response": "You can download the ShopEase app on iOS and Android and sign in with your usual account."}
+{"prompt": "Do you support 2FA?", "response": "We support two-factor authentication. Enable it in Account Settings > Security and confirm logins with a code sent to your phone."}
+{"prompt": "How fast is express delivery?", "response": "Yes, express shipping is $12.99 with delivery in 1-2 business days. Orders placed before 2 pm ET ship the same day."}
+{"prompt": "Good morning, do you have express shipping? Thanks in advance.", "response": "Yes, express shipping is $12.99 with delivery in 1-2 business days. Orders placed before 2 pm ET ship the same day."}
+{"prompt": "do you offer price matching", "response": "We offer price adjustments within 14 days of purchase. Contact support with your order number and we will refund the difference."}
+{"prompt": "i forgot something, can i add it to my existing order", "response": "Once placed, an order cannot be modified. Cancel it from My Orders before it ships and reorder with the right items."}
+{"prompt": "Hi, where is the size chart? Thanks!", "response": "Use the Size Guide link beside the size selector on each product page. If you are between two sizes, size up."}
+{"prompt": "Can I speak to a human?", "response": "Sure, you can reach a human agent through live chat (9 am to 9 pm ET) or by emailing support@shopease.example."}
+{"prompt": "Why can't I review this item?", "response": "After delivery, open My Orders and click Write a Review. Only verified buyers can review, and you can edit your review at any time."}
+{"prompt": "Good morning, how do I report an incorrect item? Thanks in advance.", "response": "Please send us your order number and a photo. We will ship the correct item at no cost and include a prepaid label for the wrong one."}
+{"prompt": "How do I get 10% off?", "response": "New customers get 10% off their first order with the code WELCOME10 after subscribing to our newsletter."}
+{"prompt": "Hi, can I pre-order an item? Thank you.", "response": "You are charged only when a pre-order ships on its release date, and you can cancel it at any time before then."}
+{"prompt": "Hi, do you have a mobile app?", "response": "You can download the ShopEase app on iOS and Android and sign in with your usual account."}
+{"prompt": "Good morning, will my items ship together? Any info would be appreciated.", "response": "Orders can ship in separate packages from different warehouses, and each package has its own tracking number. You are not charged extra shipping for it."}
+{"prompt": "Hello, can I get a tracking number? Thank you.", "response": "Open My Orders and click Track next to your order. A tracking link is also sent to you by email once the order ships."}
+{"prompt": "Which items cannot be returned?", "response": "Items marked Final Sale, gift cards and personalised products cannot be returned or exchanged."}
+{"prompt": "What is a pre-order? Please help.", "response": "You are charged only when a pre-order ships on its release date, and you can cancel it at any time before then."}
+{"prompt": "Do you support 2FA? Thanks!", "response": "We support two-factor authentication. Enable it in Account Settings > Security and confirm logins with a code sent to your phone."}
+{"prompt": "Quick question: how fast is express delivery? Thanks!", "response": "Yes, express shipping is $12.99 with delivery in 1-2 business days. Orders placed before 2 pm ET ship the same day."}
+{"prompt": "Do you offer price matching?", "response": "We offer price adjustments within 14 days of purchase. Contact support with your order number and we will refund the difference."}
+{"prompt": "Good morning, how do I get 10% off?", "response": "New customers get 10% off their first order with the code WELCOME10 after subscribing to our newsletter."}
+{"prompt": "How do I report an incorrect item?", "response": "Please send us your order number and a photo. We will ship the correct item at no cost and include a prepaid label for the wrong one."}
+{"prompt": "How can I contact customer support? Any info would be appreciated.", "response": "Reach us at support@shopease.example or through live chat from 9 am to 9 pm ET every day. Email replies take up to 24 hours."}
+{"prompt": "Hey, can a manager call me back? Thanks!", "response": "Of course. Start a live chat from 9 am to 9 pm ET or email support@shopease.example and a team member will take over."}
+{"prompt": "Who won the football match yesterday?", "response": "I am the ShopEase support assistant, so I can only answer questions about orders, shipping, returns, payments and accounts."}
+{"prompt": "Can a manager call me back?", "response": "Of course. Start a live chat from 9 am to 9 pm ET or email support@shopease.example and a team member will take over."}
+{"prompt": "Hey, do you offer price matching? Any info would be appreciated.", "response": "We offer price adjustments within 14 days of purchase. Contact support with your order number and we will refund the difference."}

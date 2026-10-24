@@ -1,0 +1,11 @@
+query,expected_gist,base_model,fine_tuned,base_rating_1to5,finetuned_rating_1to5
+Can I return a product after 30 days?,Returns only within 30 days of delivery,,"Items must be unused, in their original packaging and with all tags attached to be eligible for a return.",,
+How do I track my order?,My Orders > Track / tracking email,,"We track orders in My Orders until the order ships. Once it has shipped, the tracking details are back in your spam folder.",,
+"My package arrived broken, what should I do?",Report within 48 h with photo; free replacement/refund,,We are sorry about that! Report it within 48 hours of delivery with a photo through My Orders and we will send a free replacement or a refund.,,
+Do you ship to Canada?,"Yes, 40+ countries, 7-14 business days, customer pays duties",,We deliver to over 50 countries. International delivery takes 3-5 business days.,,
+"I forgot my password, help!","Forgot Password link, reset email",,"Click Forgot Password on the login page and enter your email. We will send a reset link, so please check your spam folder if you do not see it.",,
+Is there free delivery?,Free standard shipping over $50,,"Yes, standard orders can go to a PO box. Express orders require a street address.",,
+Can I pay with PayPal?,"Yes: Visa, MasterCard, Amex, PayPal, Apple Pay, gift card",,"We accept Visa, MasterCard, American Express, PayPal, Apple Pay and ShopEase gift cards.",,
+How long will it take to get my money back after a return?,5-7 business days to original payment method,,Return shipping costs $4.99 and arrives within 3-5 business days.,,
+What is the capital of France?,Out of scope -> only orders/shipping/returns/accounts,,We offer free size and colour exchanges within 30 days of delivery. Choose Exchange Item in My Orders to begin.,,
+Can I change my delivery address after placing the order?,"Only before it ships, in My Orders",,"You can edit your shipping address in My Orders before the order ships. Once it has shipped, the address can no longer be changed.",,

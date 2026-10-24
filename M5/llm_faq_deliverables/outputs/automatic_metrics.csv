@@ -1,0 +1,7 @@
+,base model,fine-tuned (LoRA),change
+BLEU,0.0,14.7044,14.7044
+ROUGE-1,0.0072,0.3227,0.3155
+ROUGE-L,0.0057,0.2674,0.2618
+Embedding cosine,0.0668,0.5167,0.4499
+Test loss,3.7169,0.9084,-2.8084
+Perplexity,41.1352,2.4805,-38.6548
